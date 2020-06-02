@@ -1,0 +1,21 @@
+{
+  "name": "spotify-graphql-wrapper",
+  "version": "1.0.0",
+  "description": "GraphQL wrapper for few of the Spotify APIs",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.14.1",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "graphql": "^15.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
