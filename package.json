@@ -4,7 +4,7 @@
   "description": "GraphQL wrapper for few of the Spotify APIs",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "node index"
   },
   "keywords": [],
   "author": "",

@@ -1,4 +1,4 @@
-const { spotify, spotifyAuth } = require('../spotify');
+const { spotify, spotifyAuth } = require('./api/spotify');
 const qs = require('querystring');
 
 const AuthError = new Error("Authorization header is missing");
